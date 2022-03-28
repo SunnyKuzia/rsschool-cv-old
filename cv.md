@@ -42,3 +42,21 @@ function multiply(a, b) {
 I worked for five years in a bank as a customer service specialist.
 
 My first programming project is this [сurriculum vitae](https://github.com/SunnyKuzia/rsschool-cv).
+
+## Education
+
+### University
+
+* Belarus State Economic University, major is "Finance"
+
+### Books
+
+* Completed books:
+
+1. Head First HTML and CSS;
+2. Head First JavaScript Programming.
+
+## English
+
+* Intermediate (B1)
+(But: I continue to improve my level in language courses)
