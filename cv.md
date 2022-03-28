@@ -1,5 +1,7 @@
 # Aliaksandra Huliakevich
 
+![Alt-photo](./img/avatar.jpg)
+
 ## Contacts
 
 * Location: Minsk, Belarus
